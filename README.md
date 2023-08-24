@@ -16,7 +16,7 @@ The challenge involved conducting a comprehensive analysis of music store sales 
 
 Many More Questions were addressed in this Analysis...
 
-### Schema Design:
+### Database Schema:
 <img src = "https://github.com/Mcraze/Music-Store-Analysis/assets/84672998/6da5c248-2b84-455e-9256-ae9ace276119" width= 100%>
 
 ### Generated Insights:
